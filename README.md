@@ -35,7 +35,7 @@ Automated Debian/Ubuntu installer for:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nginx-xray-installer.git
+git clone https://github.com/NoobieRSA-dev/nginx-xray-installer.git
 cd nginx-xray-installer
 chmod +x setup.sh
 sudo ./setup.sh
